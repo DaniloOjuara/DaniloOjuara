@@ -1,7 +1,7 @@
 # Hello Word :open_hands:
 
 <div style="inline_block">
-  <p>Me chamo Danilo Oliveira um apaixonado por <em>programação</em>. Há exatamente 10 meses resolvi seguir meu coração e migrar de carreira depois de 4 anos trabalhando    no mundo do cafés como Barista. afinal, programadores precisam tomar um bom café. Atualmente estou cusando o 2º de Análise e desenvolvimento de Sistemas e estudando      <strong>desenvolvimento front-end.</strong></p>
+  <p>Me chamo Danilo Oliveira um apaixonado por <em>programação</em>. Há exatamente 10 meses resolvi seguir meu coração e migrar de carreira depois de 4 anos trabalhando    no mundo do cafés como Barista. afinal, programadores precisam tomar um bom café. Atualmente estou cusando o 2º semestre de Análise e desenvolvimento de Sistemas e estudando      <strong>desenvolvimento front-end.</strong></p>
   <a href="mailto:danilo.ojuara061@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
