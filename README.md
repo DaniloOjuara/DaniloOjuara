@@ -1,9 +1,9 @@
 # Hello Word :open_hands:
 
 <div style="inline_block">
-  <p>Me chamo Danilo Oliveira um apaixonado por <em>programação</em>. Há exatamente 10 meses resolvi seguir meu coração e migrar de carreira depois de 4 anos trabalhando    no mundo do cafés como Barista. afinal, programadores precisam tomar um bom café. Atualmente estou cusando o 2º semestre de Análise e desenvolvimento de Sistemas e estudando<strong>desenvolvimento front-end.</strong></p>
+  <p>Me chamo Danilo Oliveira um apaixonado por <em>programação</em>. Há exatamente 10 meses resolvi seguir meu coração e migrar de carreira depois de 4 anos trabalhando    no mundo do cafés como Barista. afinal, programadores precisam tomar um bom café. Atualmente estou cusando o 3º semestre de Análise e desenvolvimento de Sistemas e estudando<strong>desenvolvimento front-end.</strong></p>
   
-  <p>My name is Danilo Oliveira and I am passionate about programming. So, exactly 10 months ago I decided to follow my heart and change my career after 4 years working as a barista, after all, programmers need a good cup of coffee. I am currently in the 2nd semester of Systems Analysis and Development and studying front-end development.
+  <p>My name is Danilo Oliveira and I am passionate about programming. So, exactly 10 months ago I decided to follow my heart and change my career after 4 years working as a barista, after all, programmers need a good cup of coffee. I am currently in the 3nd semester of Systems Analysis and Development and studying front-end development.
   </p>
   
   <a href="mailto:danilo.ojuara061@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
